@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393794876562",
+    "project_id": "flutter-sqlite",
+    "storage_bucket": "flutter-sqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393794876562:android:3da8fe1ff30ef6cbc0624b",
+        "android_client_info": {
+          "package_name": "com.trivikram.flutter_sqlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393794876562-ecj8bapcuo7rbnrnsii2h69ojjtsmd2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsbaP_wpsGKI1Cu2ooQDGjgLhqTNQ64Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393794876562-ecj8bapcuo7rbnrnsii2h69ojjtsmd2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
